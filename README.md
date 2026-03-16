@@ -3,7 +3,7 @@
 Este projeto apresenta uma **Pipeline de Ciência de Dados** automatizada, desenvolvida para transformar dados brutos de vendas em um relatório executivo interativo. O foco principal é demonstrar competência técnica na extração de insights e visualização de dados voltada para Business Intelligence (BI).
 
 ## 🔗 Visualização do Projeto
-🚀 **[CLIQUE AQUI PARA VER O RELATÓRIO INTERATIVO](https://SEU-USUARIO.github.io/projeto-analise-samsung/)**
+🚀 **[CLIQUE AQUI PARA VER O RELATÓRIO INTERATIVO]( https://jlvieiratrafegopago-max.github.io/projeto-analise-samsung/)**
 *(Nota: Substitua o link acima pela URL que apareceu no seu GitHub Pages)*
 
 ## 🛠️ Tecnologias e Ferramentas
